@@ -1,7 +1,7 @@
 # WalletPet / Wallet Meow｜遊戲化記帳系統
 
 本專案為 **WalletMeow Studio 共同開發專題**，是一套結合「理財記帳」與「寵物互動養成」的遊戲化記帳系統。  
-專案參與人員。
+專案參與人員為 @WalletMeow Studio 之六人團隊。
 
 ---
 
